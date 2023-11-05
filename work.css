@@ -1,0 +1,131 @@
+body{
+    display: flex;
+    align-items: center;
+    margin: 140px;
+    justify-content: center;
+
+}
+
+.container{
+    width: 240px;
+    height: 300px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+.container img{
+transition: .3S;
+filter: grayscale(.4);
+  width: 100%;
+  height: 100%;
+
+}
+.container img:hover{
+
+    filter: grayscale(0);
+    transform: scale(1.3) rotate(7deg);
+}
+body{
+    display: flex;
+    align-items: center;
+    margin: 140px;
+    justify-content: center;
+
+}
+
+.container1{
+    width: 240px;
+    height: 300px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+.container1 img{
+transition: .3S;
+filter: grayscale(.4);
+  width: 100%;
+  height: 100%;
+
+}
+.container1 img:hover{
+
+    filter: grayscale(0);
+    transform: scale(1.3) rotate(7deg);
+}
+
+
+
+body{
+    display: flex;
+    align-items: center;
+    margin: 140px;
+    justify-content: center;
+
+}
+
+.container2{
+    width: 240px;
+    height: 300px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+.container2 img{
+transition: .3S;
+filter: grayscale(.4);
+  width: 100%;
+  height: 100%;
+
+}
+.container2 img:hover{
+
+    filter: grayscale(0);
+    transform: scale(1.3) rotate(7deg);
+}
+body{
+    display: flex;
+    align-items: center;
+    margin: 140px;
+    justify-content: center;
+
+}
+
+.container3{
+    width: 240px;
+    height: 300px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+.container3 img{
+transition: .3S;
+filter: grayscale(.4);
+  width: 100%;
+  height: 100%;
+
+}
+.container3 img:hover{
+
+    filter: grayscale(0);
+    transform: scale(1.3) rotate(7deg);
+}
+
+
+
+
+
+imag{
+
+border-radius: 50%;
+object-fit: cover;
+width: 150px;
+    height: 150px;
+}
+
+
+
+
